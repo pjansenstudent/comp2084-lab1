@@ -22,3 +22,6 @@ namespace Lab1
                 .UseStartup<Startup>();
     }
 }
+
+
+//comment included in order to complete Lab 1
